@@ -19,7 +19,6 @@ function App() {
         >
           Learn React
         </a>
-        <Button title="Button" type="danger" size="large" shape="round" />
       </header>
     </div>
   );
